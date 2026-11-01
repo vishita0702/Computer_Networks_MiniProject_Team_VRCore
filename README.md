@@ -160,15 +160,7 @@ This project is completely simulated using Cisco Packet Tracer. No physical IoT 
 
 A computer or laptop is sufficient to run the simulation.
 
-## 👩‍💻 Project Information
 
-**Project Name:** Smart City Monitoring and Automation System
-
-**Domain:** Computer Networks / Internet of Things (IoT)
-
-**Simulation Tool:** Cisco Packet Tracer
-
-**Project Type:** Academic Mini Project
 
 ---
 
